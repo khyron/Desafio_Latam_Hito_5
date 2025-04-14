@@ -76,7 +76,7 @@ Unauthenticated access attempt:
 ```bash
 # Clone repository
 git clone https://github.com/khyron/Desafio_Latam_Hito_5.git
-cd macro-photo-api
+cd Desafio_Latam_Hito_5
 
 # Install dependencies
 npm install
