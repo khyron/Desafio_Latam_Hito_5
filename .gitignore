@@ -1,0 +1,7 @@
+/.idea/
+*.zip
+*.rar
+/node_modules/
+*.env
+/dist/
+*.docx
